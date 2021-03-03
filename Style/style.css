@@ -1,10 +1,51 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+
+.nav-link{
+    font-size: 195%;
+    background-color: darkgreen;
+    border-style: solid;
+    border-color: red;
+}
+.navbar-brand{
+    font-size: 195%;
+    background-color: darkgreen;
+    border-style: solid;
+    border-color: red;
+}
+.nav-item {
+    padding: 3px;
 }
 
-nav{
-    display: flex;
-    justify-content: space-around;
+.MainBox{
+    padding: 30px;
+    background-color: #2E2E2E;
 }
+
+.Content{
+    padding: 20px;
+    color: white;
+}
+
+.header{
+    color: white;
+}
+
+.footerBox{
+    background-color: gray;
+    padding: 30px;
+}
+
+.container-fluid{
+    !important;
+    background-color: gray;
+    padding: 20px;
+}
+
+
+.navBackground{
+    background-color: gray;
+}
+
+body{
+    background: lightgreen;
+}
+
